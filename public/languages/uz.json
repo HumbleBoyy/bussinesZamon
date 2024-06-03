@@ -1,0 +1,87 @@
+
+{
+    "home":"Bosh sahifa",
+    "about":"Haqimizda",
+    "tour":"Sayohat",
+    "contact":"Bog'lanish",
+
+    "takeaGlimps":"Siz yoqtirib qolishingiz aniq bo'lgan shahar:",
+    "gothere":"Borishni xoxlaysizmi",
+    "population":"Aholisi",
+    "average":"O'rtacha narx",
+    "area":"Hududi",
+    "city":"Samarqand",
+    "explore":"Kashf Eting",
+    "bestOffers":"Eng Yaxshi Haftalik Takliflarimiz",
+    "bestofferTitle":"Har bir shaharda faqat siz uchun tuzilgan eng yaxshi haftalik takliflarni kashf eting. O'zingizni sarguzashtlar dunyosida his qiling.",
+    "booking":"Joy band qiling",
+    "istanbul":"Istanbul",
+    "dubai":"Dubay",
+    "london":"London",
+    "cairo":"Qohira",
+
+    "tourTitle":"Eng Yaxshi Haftalik Takliflarimiz",
+    "tourTitleDescription":"Har bir shaharda faqat siz uchun tuzilgan eng yaxshi haftalik takliflarni kashf eting.",
+    "tourTitleDescription2":"O'zingizni sarguzashtlar dunyosida his qiling.",
+    "person":"Kishi",
+    "checkIn":"buyurtmalar",
+
+    "visa":"Viza Olishga Yordam Beramiz",
+    "visadesC":"Biz sizga oson, tez fursatda va albatta ishonchli viza olishga yordam beramiz.",
+    
+      "dealinclude":"Tur o'z ichiga oladi",
+      "trip":"5 Kunlik Sayohat > Mehmonxona",
+      "airplane":"Aviachipta",
+      "dailyvisit":"Eng yaxshi manzillar",
+
+      "uzbekistan":"O'zbekiston",
+      "uae":"Birlashgan Arab Amirliklari",
+       "japan":"Yaponiya",
+       "usa":"AQSH Amerika",
+       "egypt":"Misr",
+       "canada":"Qanada",
+
+       "benefitofVisa":"Bizning xizmat o'z ichiga oladi:",
+       "bestPrice":"Eng qulay narxlar",
+       "shortTime":"Tezkor  ishlash jarayoni",
+       "trust":"Ishonchli ko'mak",
+
+       "aboutSec":"Chiptalarni Biz Bilan Arzon Va Oson Toping",
+       "aboutDescrib":"Har bir shaharda eng yaxshi temir yo‘l va aviachipta biletlarini biz bilan toping",
+       "railway":"Temir Yo‘l Biletleri Biz Bilan",
+       "whole":"Butun dunyo bo'ylab",
+       "embark":"Temir yo'l orqali biz bilan sarguzashtlarni kashf eting! Baland tog'larni, betakror tabiat manzalarni, qadimiy va navqiron shaharlarni, takrorlanmas landshaflarni biz bilan birga toping. Qiziqarlimi? Biz bilan bog'laning.",
+       "airplanea":"Aviabiletlar Biz Bilan Arzon",
+       "globalDest":"Jahon bo‘ylab Manzillar",
+       "embarktwo":"Xavo yo'li orqali biz bilan sarguzashtlarni kashf eting! Baland tog'larni, betakror tabiat manzalarni, qadimiy va navqiron shaharlarni, takrorlanmas landshaflarni biz bilan birga toping. Qiziqarlimi? Biz bilan bog'laning.",
+      
+
+    "aboutContinues":"Shaharlardan Biriga Hoziroq Tashrif Buyuring",
+     "aboutOffers":"Har bir shahardagi eng yaxshi takliflarimizni kashf eting, faqat siz uchun. O'zingiz uchun yangi dunyosni oching va misli ko'rilmagan sarguzashtlar ega bo'ling.",
+     "dubaiInfo":"Dubay - Birlashgan Arab Amirliklaridagi shahar va amirlik, hashamatli xaridlar, ultramodern arxitektura va jonli tungi hayot sahnasi bilan mashhur. Balandligi 830 m bo'lgan Burj Xalifa minorasi osmono'par binolar bilan to'ldirilgan osmon chizig'ida hukmronlik qiladi. Uning etagida musiqaga xoreografiya qilingan samolyotlar va chiroqlar bilan jihozlangan Dubay favvorasi joylashgan. Sun'iy orollarda Atlantis, Palm, suv va dengiz hayvonlari bog'lari joylashgan kurort joylashgan.",
+     "samarkandInfo":"Samarqand – dunyoning eng ko‘hna shaharlaridan biridir: uning tarixi 2750 yilga teng deb hisoblanadi Samarqand bir nechta davlatlar poytaxti, iqtisodiy va madaniy markaz, shuningdek Xitoydan Yevropagacha davom etgan Buyuk ipak yo‘lining markaziy nuqtasi bo‘lishga ulgurgan. Sayyohlar Samarqand va Oʻzbekistondagi boshqa shaharlarning qaysi diqqatga sazovor joylari haqida albatta bilishlar kerak?",
+     "istanbulInfo":"Istanbul Turkiyaning eng gavjum shahri va uning madaniy, iqtisodiy va tarixiy markazidir. U Turkiyaning shimoli-g'arbiy qismida joylashgan bo'lib, Marmara va Qora dengizni bog'laydigan Bosfor bo'g'ozi orqali Yevropa va Osiyo tomoniga bo'linadi. Bu ikki qit'ada joylashgan dunyodagi yagona shahar.",
+     "cairoInfo":"Yirik arab davlati bir vaqtda 2 ta qit'ada joylashgan va faqat qadimiy tarixi bilangina o'ziga jalb qilmayadi. Yilning asosiy qismidagi issiq iqlim, go'zal Qizil dengiz, butun dunyodan millionlab sayyohlarni o'ziga jalb qiladi. Shuningdek, sayyohlik va dam olish uchun mamlakatga kirish qulayligi.",
+     "needD":"Qiziqarlimi?",
+
+     "sliderTitle":"Eng Yaxshi Manzillar",
+     "sliderTitleDesc":"Har bir shahardagi eng yaxshi takliflarimizni kashf eting, faqat siz uchun. O'zingiz uchun yangi dunyosni oching va misli ko'rilmagan sarguzashtlar ega bo'ling.",
+     "contactSec":"O'zingiz yoqtirganingizni tanlang",
+      "makeReservation":"O'z joyingizni band qiling",
+      "phoneNumber":"Telefon raqam",
+      "contactVia":"Bizga email orqali bog'laning",
+      "Visit":"Ofisimizga tashrif buyuring",
+      
+      "formResrvation":"O'z joyingizni band qiling",
+       "formname":"Ismingiz",
+       "yourPhone":"Telefon raqamingiz",
+       "Nguests":"Necha kishisiz",
+       "checkdate":"Uchish sanasi",
+       "Choose":"Manzilingizni tanlang",
+       "VisaSupport":"Visa turini tanlang",
+
+       "footer":"SAYOHAT QILISHNI XOHLAYSIZMI?",
+       "makeIt":"Unda biz bilan hoziroq bog'laning",
+       "Yours":"Bog'lanish"
+    
+}

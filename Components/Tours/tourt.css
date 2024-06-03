@@ -1,0 +1,199 @@
+.tourt_section {
+    height: auto;
+    padding: 6rem 0.3rem;
+    background: rgb(247, 247, 247);
+    color: #000;
+}
+
+.tourt_image {
+    border-radius: 50px 0px 0px 50px;
+}
+.small_screen_size{
+    height: 560px;
+}
+.tourst_information {
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px #d5d5d5;
+    position: absolute;
+    background-color: aliceblue;
+    width: 350px;
+    height: 400px;
+    top: 50%;
+    left:0%;
+    color: #000;
+}
+.benefit_of_visa h2{
+font-size: 1.1rem;
+}
+.cover_span_two{
+  margin-left: 2rem;
+}
+.swiper_tour {
+    height: 40%;
+    background: transparent;
+    width: 10%;
+    margin: 1rem;
+}
+
+.small_screen_phone_size_second{
+    display: none;
+}
+
+@media(max-width:1024px){
+    .small_screen_phone_size_second{
+        display: block;
+        width:100%;
+    }
+    .small_screen_size {
+        display: none;
+    }
+    .tourst_information {
+        position: absolute;
+        background-color: aliceblue;
+        width: 350px;
+        height: 370px;
+        top: 40%;
+        left: 0%;
+    }
+    .swiper_tour {
+        height: 20%;
+        background: transparent;
+        width: 50%;
+        margin: 0rem;
+    }
+
+}
+@media(max-width:968px){
+    .small_screen_phone_size_second{
+        display: block;
+        max-width:100%;
+        height: 600px;
+    }
+    .tourst_information {
+        position: absolute;
+        background-color: aliceblue;
+        width: 350px;
+        height: 370px;
+        top: 60%;
+        left: 0%;
+    }
+    .swiper_tour {
+        height: 60%;
+        background: transparent;
+        width: 50%;
+        margin: 0rem;
+    }
+
+}
+@media(max-width:768px){
+    .small_screen_phone_size_second{
+        display: block;
+        max-width:100%;
+        height: 550px;
+    }
+    .tourst_information {
+        position: absolute;
+        background-color: aliceblue;
+        width: 350px;
+        height: 370px;
+        top: 20%;
+        left: 0%;
+    }
+    .swiper_tour {
+        height: 70%;
+        background: transparent;
+        width: 50%;
+        margin: 0rem;
+    }
+
+}
+@media(max-width:578px){
+    .tourt_section {
+        padding: 6rem 0.3rem;
+    }
+    .small_screen_phone_size_second{
+        display: block;
+        width:100%;
+        height: 600px;
+        margin-top: 2;
+    }
+    .tourst_information {
+        position: absolute;
+        background-color: aliceblue;
+        width: 320px;
+        height: 390px;
+        top: 65%;
+        border-radius: 50px 0px 0px 50px;
+        left: 0%;
+    }
+    .swiper_tour {
+        height: 40%;
+        background: transparent;
+        width: 100%;
+        margin: 0rem 0;
+    }
+    .title_main_second h2 {
+        font-size: 2rem;
+    }
+    .deal_details_second button {
+        padding: 0.7rem 4.5rem;
+        font-size: 1rem;
+        margin-top: 2rem;
+    }
+    .benefit_of_visa h2 {
+        font-size: 1rem;
+    }
+    .second_info h2 {
+        font-size: 1.5rem;
+    }
+    .cover_span_two {
+        font-size: 1rem;
+    }
+
+}
+@media(max-width:378px){
+    .tourt_section {
+        height: auto;
+        padding: 5rem 0.3rem;
+    }
+    .small_screen_phone_size_second{
+        display: block;
+        max-width:100%;
+        height: 600px;
+        margin-top: 2rem;
+    }
+    .tourst_information {
+        position: absolute;
+        background-color: aliceblue;
+        width: 100%;
+        height: 390px;
+        box-shadow: 0px 0px 5px #d5d5d5;
+        top: 65%;
+        border-radius: 0px 0px 0px 0px;
+        left: 0%;
+    }
+    .swiper_tour {
+        height: 40%;
+        background: transparent;
+        width: 100%;
+        margin: 0rem;
+    }
+    .title_main_second h2 {
+        font-size: 2rem;
+    }
+
+    .deal_details_second button {
+        padding: 0.7rem 4.5rem;
+        font-size: 1rem;
+        margin-top: 1rem;
+    }
+    .benefit_of_visa h2 {
+        font-size: 1rem;
+    }
+    .second_info h2 {
+        font-size: 1.5rem;
+    }
+    .cover_span_two {
+        font-size: 1rem;
+    }
+}

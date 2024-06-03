@@ -1,0 +1,452 @@
+.fill_form {
+    height: auto;
+    padding: 6rem 1rem;
+    background: aliceblue;
+    color: black;
+}
+
+.title_form {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.title_form h2{
+   font-size: 2.5rem;
+   color: rgb(0, 145, 235);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family: 600;
+}
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    border-radius: 50px;
+    color: aliceblue;
+    height: 600px;
+    margin-top: 1rem;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 145, 235);
+    box-shadow: 0px 0px 5px rgb(0, 145, 235);
+}
+form label{
+    font-size: 1rem;
+    color: rgb(100, 100, 100);
+    position: absolute;
+    margin-left: 1rem;
+
+}
+
+form input{
+    width: 500px;
+    background: aliceblue;
+    padding: 0.8rem 1rem;
+    border-radius: 50px;
+    outline: none;
+    border: 3px solid aliceblue;
+    color: #000;
+    font-size: 1rem;
+    margin-top: 2rem;
+    box-shadow: 0px 1px 3px #c8c8c8;
+}
+form input:focus{
+    border: 3px solid rgb(0, 145, 235);
+}
+.coreMessage {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  
+}
+.div_date{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+.formSelect{
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    -moz-appearance: none;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="none" stroke="black" stroke-width="2" d="M7 10l5 5 5-5z"/></svg>') no-repeat right 10px center;
+    background-color: aliceblue;
+    border: 1px solid aliceblue;
+    color: #000;
+    border-radius: 50px;
+    padding: 0.8rem 1rem;
+    width: 500px;
+    font-size: 0.9rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    box-shadow: 0px 1px 3px #c8c8c8;
+}
+.form_btn {
+    width: 500px;
+    margin-top: 1rem;
+    padding: 0.8rem 1rem;
+    border-radius: 50px;
+    outline: none;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 145, 235);
+    font-size: 1rem;
+    color: rgb(0, 145, 235);
+    cursor: pointer;
+    transition: ease-in-out 0.5s;
+    box-shadow: 0px 1px 3px #c8c8c8;
+}
+.form_btn:hover{
+    background: rgb(0, 145, 235);
+    color: rgb(255, 255, 255);
+    transition: ease-in 0.5s;
+}
+.longer_select{
+    width: 500px;
+}
+
+@media(max-width:1024px){
+    .fill_form {
+        height: auto;
+        padding: 4rem 0rem;
+    }
+    .coreMessage {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;  
+    }
+    form {
+        width: 70%;
+        height: 600px;
+        margin-top: 1rem;
+    }
+    .div_date{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+     
+    }
+    form input{
+        width: 600px;
+        margin-left: 0.1rem;
+        padding: 0.8rem 1rem;
+        font-size: 1rem;
+        margin-top: 2rem;
+    }
+    .formSelect{
+        padding: 0.8rem 1rem;
+        width: 600px;
+        font-size: 0.9rem;
+        margin-top: 2rem;
+    }
+    .form_btn {
+        width: 600px;
+        margin-top: 1rem;
+        padding: 0.8rem 1rem;
+        border-radius: 50px;
+        font-size: 1rem;
+    }
+    .longer_select{
+        width:600px;
+    }
+}
+
+@media(max-width:986px){
+    .fill_form {
+        height: auto;
+        padding: 3rem 0rem;
+    }
+    .title_form h2{
+        font-size: 2rem;
+        color: rgb(0, 145, 235);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-family: 600;
+     }
+    .coreMessage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      
+    }
+    .div_date{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+     
+    }
+    form input{
+        width: 500px;
+        margin-left: 0rem;
+        padding: 0.8rem 1rem;
+        font-size: 1rem;
+        margin-top: 1.4rem;
+    }
+    .formSelect{
+        padding: 0.8rem 1rem;
+        width: 500px;
+        font-size: 0.9rem;
+        margin-top: 2rem;
+    }
+    .form_btn {
+        width: 500px;
+        margin-top: 0.8rem;
+        padding: 0.7rem 1rem;
+        font-size: 0.9rem;
+    }
+    .longer_select{
+        width:500px;
+    }
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 90%;
+        height: 600px;
+        margin-top: 1rem;
+    }
+    form label{
+        font-size: 0.9rem;
+        color: rgb(100, 100, 100);
+        position: absolute;
+    
+    }
+}
+
+@media(max-width:786px){
+    .fill_form {
+        height: auto;
+        padding: 3rem 0rem;
+    }
+    .title_form h2{
+        font-size: 2rem;
+     }
+    .coreMessage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      
+    }
+    .div_date{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+     
+    }
+    form input{
+        width: 500px;
+        margin-left: 0rem;
+        padding: 0.9rem 1rem;
+        font-size: 1rem;
+        margin-top: 1.5rem;
+    }
+    .formSelect{
+        padding: 0.9rem 1rem;
+        width: 500px;
+        font-size: 0.9rem;
+        margin-top: 2rem;
+    }
+    .form_btn {
+        width: 500px;
+        margin-top: 0.8rem;
+        padding: 0.8rem 1rem;
+        font-size: 1rem;
+    }
+    .longer_select{
+        width:500px;
+    }
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 90%;
+        height: 600px;
+        margin-top: 1rem;
+    }
+    form label{
+        font-size: 1rem;
+        color: rgb(100, 100, 100);
+        position: absolute;
+    
+    }
+}
+@media(max-width:578px){
+    .fill_form {
+        height: auto;
+        padding: 3rem 0rem;
+    }
+    .title_form h2{
+        font-size: 1.7rem;
+     }
+    .coreMessage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      
+    }
+    .div_date{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+     
+    }
+    form input{
+        width: 370px;
+        margin-left: 0rem;
+        padding: 0.8rem 1rem;
+        font-size: 1rem;
+        margin-top: 1.4rem;
+    }
+    .formSelect{
+        padding: 0.8rem 1rem;
+        width: 370px;
+        font-size: 0.9rem;
+        margin-top: 2rem;
+    }
+    .form_btn {
+        width: 370px;
+        margin-top: 0.8rem;
+        padding: 0.8rem 1rem;
+        font-size: 0.9rem;
+    }
+    .longer_select{
+        width:370px;
+    }
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 600px;
+        margin-top: 1rem;
+    }
+    form label{
+        font-size: 0.9rem;
+        color: rgb(100, 100, 100);
+        position: absolute;
+    
+    }
+}
+@media(max-width:376px){
+    .fill_form {
+        height: auto;
+        padding: 3rem 0rem;
+    }
+    .title_form h2{
+        font-size: 1.7rem;
+     }
+    .coreMessage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      
+    }
+    .div_date{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+     
+    }
+    form input{
+        width: 350px;
+        margin-left: 0rem;
+        padding: 0.8rem 1rem;
+        font-size: 0.8rem;
+        margin-top: 1.4rem;
+    }
+    .formSelect{
+        padding: 0.7rem 1rem;
+        width: 350px;
+        font-size: 0.8rem;
+        margin-top: 2rem;
+    }
+    .form_btn {
+        width: 350px;
+        margin-top: 0.7rem;
+        padding: 0.8rem 1rem;
+        font-size: 0.8rem;
+    }
+    .longer_select{
+        width:350px;
+    }
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 550px;
+        margin-top: 1rem;
+    }
+    form label{
+        font-size: 0.8rem;
+        color: rgb(100, 100, 100);
+        position: absolute;
+    
+    }
+}
+
+@media(max-width:376px){
+    .fill_form {
+        height: auto;
+        padding: 3rem 0rem;
+    }
+    .title_form h2{
+        font-size: 1.7rem;
+     }
+    .coreMessage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      
+    }
+    .div_date{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+     
+    }
+    form input{
+        width: 300px;
+        margin-left: 0rem;
+        padding: 0.8rem 1rem;
+        font-size: 0.8rem;
+        margin-top: 1.4rem;
+    }
+    .formSelect{
+        padding: 0.7rem 1rem;
+        width: 300px;
+        font-size: 0.8rem;
+        margin-top: 2rem;
+    }
+    .form_btn {
+        width: 300px;
+        margin-top: 0.7rem;
+        padding: 0.8rem 1rem;
+        font-size: 0.8rem;
+    }
+    .longer_select{
+        width:300px;
+    }
+    form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 550px;
+        margin-top: 1rem;
+    }
+    form label{
+        font-size: 0.8rem;
+        color: rgb(100, 100, 100);
+        position: absolute;
+    
+    }
+}

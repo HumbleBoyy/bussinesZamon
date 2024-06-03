@@ -1,0 +1,87 @@
+{
+    
+      "home":"Home",
+      "about":"About",
+      "tour":"Tour",
+      "contact":"Contact" ,
+      "takeaGlimps":"Take a Glimps into The Beatiful Ctiy Of:",
+      "gothere":"Go there",
+      "city":"Samarkand",
+      "population":"Population",
+      "area":"Territory",
+      "average":"AVG Price",
+      "explore":"Explore More",
+      
+      "istanbul":"Istanbul",
+      "dubai":"Dubai",
+      "london":"London",
+      "cairo":"Cairo",
+
+      "tourTitle":"Best Weekly Offers In Each City",
+      "tourTitleDescription":"Discover the best weekly offers in each city, curated just for you." ,
+      "tourTitleDescription2":"Immerse yourself in a world of savings and indulge in unparalleled experiences." ,
+      "person":"Person",
+      "checkIn":"Check In",
+
+      "dealinclude":"Deal includes",
+      "trip":"  5 days trip > Hotel ",
+      "airplane":"Airplane Bill Included",
+      "dailyvisit":"Daily Places visit",
+      "booking":"Book it now",
+
+      "visa":"Visa Support",
+      "visadesC":"Experience stress-free travel with our expert visa support.",
+      "visadesCr":"We provide seamless assistance and comprehensive guidance, ensuring a smooth journey.",
+      "register":"Register",
+
+      "uzbekistan":"Uzbekistan",
+      "uae":"United Arab Emirates",
+      "japan":"Japan",
+      "usa":"USA America",
+      "egypt":"Egypt",
+      "canada":"Canada",
+
+       "benefitofVisa":"Benefits of our Visa Support service:",
+       "bestPrice":"Best Prices",
+       "shortTime":"Short Processing Time",
+       "trust":"Trustworthy Assistance",
+
+       "aboutSec":"Explore Destinations With Ease",
+       "aboutDescrib":"Find the best deals on railway and airplane tickets in each city, carefully selected for you.",
+       "railway":"Cheap Railway Tickets With Us",
+       "whole":"Whole world",
+       "embark":"Embark on a railway adventure and explore destinations worldwide. Whether it's the picturesque landscapes, bustling cities, or cultural gems, our rail services offer a unique and comfortable way to traverse the globe. Immerse yourself in the beauty of different cultures, all accessible through our extensive railway network.",
+       "airplanea":"Discover Exciting Air Travel Deals",
+       "globalDest":"Global Destinations",
+       "embarktwo":"Embark in the sky adventure and explore destinations worldwide. Whether it's the picturesque landscapes, bustling cities, or cultural gems, our rail services offer a unique and comfortable way to traverse the globe. Immerse yourself in the beauty of different cultures, all accessible through our extensive railway network.",
+
+
+       "aboutContinues":"Visit One Of Our Countries Now",
+       "aboutOffers":"Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+       "dubaiInfo":"Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.",
+       "samarkandInfo":"Samarkand, the capital and administrative centre of Samarkand Region, is an ancient and historic city located in the Zarafshan Valley in north-eastern Uzbekistan. It is the second largest after Tashkent, capital of Uzbekistan. In the 14th century, Samarkand was the capital of the Timurid dynasty.",
+       "istanbulInfo":"Istanbul is a transcontinental city, straddling the Bosphorus strait in northwestern Turkey between the Sea of Marmara and the Black Sea. Founded on the Sarayburnu promontory around 660 BC as Byzantium, the city now known as Istanbul developed to become one of the most significant cities in history.",
+       "cairoInfo":"Cairo is the capital and largest city of Egypt. The city's metropolitan area is the largest in the Middle East and the Arab world, and 15th-largest in the world, and is associated with ancient Egypt, as the famous Giza pyramid complex and the ancient city of Memphis are located in its geographical area.",
+       "needD":"Need Directions?",
+
+       "sliderTitle":"Best Locations",
+       "sliderTitleDesc":"Discover the best offers in each city, curated just for you. Immerse yourself in a world of savings and indulge in unparalleled experiences.",
+       "contactSec":"Book Prefered Deal Here",
+       "makeReservation":"Make Your Reservation",
+       "phoneNumber":"Make a phone call",
+       "contactVia":"Contact Us via Email",
+       "Visit":"Visit Our office",
+       
+       "formResrvation":"Make Your Reservation Through This Form",
+       "formname":"Name",
+       "yourPhone":"Phone Number",
+       "Nguests":"Number Of Guests",
+       "checkdate":"Check In Date",
+       "Choose":"Choose Your Destination",
+       "VisaSupport":"Choose Your Visa Support",
+
+       "footer":"ARE YOU LOOKING TO TRAVEL ?",
+       "makeIt":"Make A Reservation By Clicking The Button",
+       "Yours":"Book  Now"
+      
+}
