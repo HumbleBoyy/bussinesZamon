@@ -5,7 +5,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import axios from 'axios';
 const Form = () => {
-  const {t, i18n} = useTranslation();
+  const {t} = useTranslation();
   const notify = () => toast();
 
 

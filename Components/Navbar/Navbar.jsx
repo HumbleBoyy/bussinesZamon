@@ -14,6 +14,7 @@ const Navbar = () => {
     const selectedLanguage = event.target.value;
     i18n.changeLanguage(selectedLanguage)
   }
+  
   return (
     <nav className='nav__navbar'>
       <div className="container">
